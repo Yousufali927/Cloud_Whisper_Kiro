@@ -326,10 +326,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **Twitter**: [@cloudwhisper](https://twitter.com/cloudwhisper)
-- **Discord**: [Join our community](https://discord.gg/cloudwhisper)
+- **Project Lead**: Mohammed Yousuf Ali Adnan
+- **Email**: yousufaliadnan8@gmail.com
 
 ---
 
